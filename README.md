@@ -5,3 +5,6 @@
 + Assignment 2
   - Desicion Tree
   - K nearest neighbor
++ Project
+  - Feed Forward Neural Network
+  - Convolution Neural Network
